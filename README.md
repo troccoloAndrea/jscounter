@@ -1,3 +1,4 @@
+
 # JScounter
 Simple counter application in pure JavaScript for start2impact project.
 
@@ -5,6 +6,6 @@ Simple counter application in pure JavaScript for start2impact project.
 [:point_right: troccoloandrea.github.io/jscounter](troccoloandrea.github.io/jscounter "JScounter")
 
 ***
-![jscounter](https://user-images.githubusercontent.com/46674104/113159643-0f29f380-923d-11eb-95a3-24319a7b3042.PNG)
+![2021-03-31 16-29-09](https://user-images.githubusercontent.com/46674104/113161450-b0657980-923e-11eb-9963-ebf7d63de8b4.gif)
 
 ***
