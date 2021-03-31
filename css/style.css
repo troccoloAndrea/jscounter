@@ -51,7 +51,7 @@ i{
     flex-direction: row;
     justify-content: space-around;
     vertical-align: middle;
-    flex-wrap: wrap;
+    flex-wrap: nowrap;
     width: 70%;
     margin: 0;
     position: absolute;
@@ -95,3 +95,22 @@ i{
     -moz-box-shadow: 0px 0px 36px -11px rgba(0, 0, 0, 1);
     box-shadow: 0px 0px 36px -11px rgba(0, 0, 0, 1);
 }
+
+@media (max-width: 700px) {
+    .jumbotron{
+        height: 45vh;
+    }
+    .center{
+        height: 65vh;
+    }
+    .counter-box {
+        width: 100%;
+    }
+    .btn{
+        height: 90px;
+        width: 90px;
+    }
+    .counter-box span{
+        font-size: 3.5rem;
+    }
+  }
