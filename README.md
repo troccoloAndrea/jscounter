@@ -1,5 +1,5 @@
 # JScounter
-Simple counter application in pure JavaScript for start2impact project-
+Simple counter application in pure JavaScript for start2impact project.
 
 ## See the demo
 [troccoloandrea.github.io/jscounter](troccoloandrea.github.io/jscounter "JScounter")
